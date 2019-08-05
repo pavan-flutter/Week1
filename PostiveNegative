@@ -1,0 +1,8 @@
+void main() {
+int i = 10;
+if(i> 0) { print(' ${i} Number isPostive');}
+else{
+if(i==0) { print(' ${i} Number is Netural');}
+else {print(' ${i} Number is Negative);}
+}
+}
